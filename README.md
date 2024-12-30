@@ -1,1 +1,1 @@
-# servi-os-distribu-dos-app
+# servicos-distribuidos-app
